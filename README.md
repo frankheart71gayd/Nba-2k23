@@ -205,3 +205,6 @@ This repository serves as the official landing page for **NBA 2K23**. The softwa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NBA 2K23 today!**
+
+---
+**Last updated:** 2026-11-08 08:20:10 UTC
