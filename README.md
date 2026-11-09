@@ -207,4 +207,4 @@ This repository serves as the official landing page for **NBA 2K23**. The softwa
 **Get the most recent version of NBA 2K23 today!**
 
 ---
-**Last updated:** 2026-11-09 07:28:11 UTC
+**Last updated:** 2026-11-09 17:59:37 UTC
